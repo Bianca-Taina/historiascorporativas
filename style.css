@@ -3,12 +3,17 @@ body{
     line-height: 1.5;
     font-family: sans-serif;
     text-align: justify;
-    margin: 30px, 20px, 20px, 30px;
+    margin: 2em;
     padding: 2em;
-    color: rgb(225, 0, 255);
+    color: rgb(17, 238, 201);
     border: solid 1px;
+}
+
+h1{
+    text-align: center;
+    font-size: 13px;
 }
 h2{
     text-align: center;
-    color: rgb(255, 0, 221);
+    color: rgb(10, 218, 190);
 }
